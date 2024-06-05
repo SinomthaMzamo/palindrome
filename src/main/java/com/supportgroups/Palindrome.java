@@ -1,9 +1,8 @@
 package com.supportgroups;
 
 /**
- * Hello world!
- *
- */
+* checks if a word is a palindrome using different approaches
+*/
 public class Palindrome
 {
     /**

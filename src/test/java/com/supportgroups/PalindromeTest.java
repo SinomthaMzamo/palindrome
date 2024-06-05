@@ -2,7 +2,6 @@ package com.supportgroups;
 
 import org.junit.jupiter.api.*;
 
-import java.util.*;
 
 import static com.supportgroups.Palindrome.*;
 import static org.junit.jupiter.api.Assertions.*;
